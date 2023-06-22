@@ -1,0 +1,106 @@
+{
+    "Topic":
+    [
+        {
+            "topic_id": 1,
+            "topic_name": "Flower",
+            "sub_topic": [
+                {
+                    "sub_topic_id": "F1",
+                    "sub_name": "Rose",
+                    "sub_image1": "../../../../Asset/Rose1.jpg",
+                    "sub_image2": "../../../../Asset/Rose2.jpg",
+                    "sub_description":"rose, (genus Rosa), genus of some 100 species of perennial shrubs in the rose family (Rosaceae). Roses are native primarily to the temperate regions of the Northern Hemisphere. Many roses are cultivated for their beautiful flowers, which range in colour from white through various tones of yellow and pink to dark crimson and maroon, and most have a delightful fragrance, which varies according to the variety and to climatic conditions."
+                },
+                {
+                    "sub_topic_id": "F2",
+                    "sub_name": "Jasmin",
+                    "sub_image1": "../../../../Asset/Jasmine2.jpg",
+                    "sub_image2": "../../../../Asset/Jasmine1.jpg",
+                    "sub_description":"jasmine, (genus Jasminum), also spelled jessamine, genus of about 200 species of fragrant-flowered shrubs and vines of the olive family (Oleaceae). The plants are native to tropical and to some temperate areas of the Old World. Several are cultivated as ornamentals."
+                },
+                {
+                    "sub_topic_id": "F3",
+                    "sub_name": "Lily",
+                    "sub_image1": "../../../../Asset/Lily2.jpg",
+                    "sub_image2": "../../../../Asset/Lily1.jpg",
+                    "sub_description":"Water lilies are plants that grow in still or slowly moving water. They like ponds, streams, and the edges of lakes in tropical and mild areas. Their floating leaves are often called lily pads. Frogs like to sit on them."
+                }
+            ]
+        },
+        {
+            "topic_id": 2,
+            "topic_name": "Birds",
+            "sub_topic": [
+                {
+                    "sub_topic_id": "B1",
+                    "sub_name": "Peacock",
+                    "sub_image1": "../../../../Asset/Peacock1.jpg",
+                    "sub_image2": "../../../../Asset/Peacock2.jpg",
+                    "sub_description":"The peacock-pheasants are a bird genus, Polyplectron, of the family Phasianidae, consisting of eight species. They are colored inconspicuously, relying on heavily on crypsis to avoid detection. When threatened, peacock-pheasants will alter their shapes using specialised plumage that when expanded reveals numerous iridescent orbs. The birds also vibrate their plume quills further accentuating their aposematism. Peacock-pheasants exhibit well developed metatarsal spurs. Older individuals may have multiple spurs on each leg. These kicking thorns are used in self-defense."
+                },
+                {
+                    "sub_topic_id": "B2",
+                    "sub_name": "Duck",
+                    "sub_image1": "../../../../Asset/Duck1.jpg",
+                    "sub_image2": "../../../../Asset/Duck2.jpg",
+                    "sub_description":" Ducks are an immense group of aquatic birds, known as waterfowl. They are in the Anatidae family, and share this family with swans and geese as well. As a group, the vast majority of these birds are smaller than swans and geese. They usually live in fresh waters like lakes and ponds, but some species live in brackish or salt water. Read on to learn about the duck."
+                }
+            ]
+        },
+        {
+            "topic_id": 3,
+            "topic_name": "Fruits",
+            "sub_topic": [
+                {
+                    "sub_topic_id": "F1",
+                    "sub_name": "Apple",
+                    "sub_image1": "../../../../Asset/Apple1.jpg",
+                    "sub_image2": "../../../../Asset/Apple2.jpg",
+                    "sub_description":"An apple is a round, edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found. Apples have been grown for thousands of years in Asia and Europe and were introduced to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition."
+                },
+                {
+                    "sub_topic_id": "F2",
+                    "sub_name": "Orange",
+                    "sub_image1": "../../../../Asset/Orange1.jpg",
+                    "sub_image2": "../../../../Asset/Orange2.jpg",
+                    "sub_description":"orange, any of several species of small trees or shrubs of the genus Citrus of the family Rutaceae and their nearly round fruits, which have leathery and oily rinds and edible, juicy inner flesh. A number of species and varieties of orange are economically important, namely the China orange, also called the sweet, or common, orange (Citrus ×sinensis); the mandarin orange (C. reticulata), some varieties of which are called tangerines; and the sour, or Seville, orange (C. ×aurantium), which is less extensively grown. Common varieties of the sweet orange include the Jaffa, from Israel, the seedless navel, and the Maltese, or blood, orange."
+                }
+            ]
+        },
+        {
+            "topic_id": 4,
+            "topic_name": "Animal",
+            "sub_topic": [
+                {
+                    "sub_topic_id": "A1",
+                    "sub_name": "Tiger",
+                    "sub_image1": "../../../../Asset/Tiger1.jpg",
+                    "sub_image2": "../../../../Asset/tiger3.jpg",
+                    "sub_description":"The tiger (Panthera tigris) is the largest living cat species and a member of the genus Panthera. It is most recognisable for its dark vertical stripes on orange fur with a white underside. An apex predator, it primarily preys on ungulates, such as deer and wild boar. It is territorial and generally a solitary but social predator, requiring large contiguous areas of habitat to support its requirements for prey and rearing of its offspring. Tiger cubs stay with their mother for about two years and then become independent, leaving their mother's home range to establish their own."
+                },
+                {
+                    "sub_topic_id": "A2",
+                    "sub_name": "Lion",
+                    "sub_image1": "../../../../Asset/Lion1.jpg",
+                    "sub_image2": "../../../../Asset/Lion2.jpg",
+                    "sub_description":"The lion (Panthera leo) is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body; short, rounded head; round ears; and a hairy tuft at the end of its tail. It is sexually dimorphic; adult male lions are larger than females and have a prominent mane. It is a social species, forming groups called prides. A lion's pride consists of a few adult males, related females, and cubs. Groups of female lions usually hunt together, preying mostly on large ungulates. The lion is an apex and keystone predator; although some lions scavenge when opportunities occur and have been known to hunt humans, lions typically do not actively seek out and prey on humans."
+                },
+                {
+                    "sub_topic_id": "A3",
+                    "sub_name": "Cat",
+                    "sub_image1": "../../../../Asset/cat1.jpg",
+                    "sub_image2": "../../../../Asset/cat2.jpg",
+                    "sub_description":"The cat (Felis catus) is a domestic species of small carnivorous mammal.It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members of the family.[4] Cats are commonly kept as house pets but can also be farm cats or feral cats; the feral cat ranges freely and avoids human contact.[5] Domestic cats are valued by humans for companionship and their ability to kill vermin. About 60 cat breeds are recognized by various cat registries."
+                },
+                {
+                    "sub_topic_id": "A4",
+                    "sub_name": "Dog",
+                    "sub_image1": "../../../../Asset/dog1.jpg",
+                    "sub_image2": "../../../../Asset/dog2.jpg",
+                    "sub_description":"dog, (Canis lupus familiaris), domestic mammal of the family Canidae (order Carnivora). It is a subspecies of the gray wolf (Canis lupus) and is related to foxes and jackals. The dog is one of the two most ubiquitous and most popular domestic animals in the world (the cat is the other). For more than 12,000 years it has lived with humans as a hunting companion, protector, object of scorn or adoration, and friend."
+                }
+            ]
+        }
+    ]
+}
