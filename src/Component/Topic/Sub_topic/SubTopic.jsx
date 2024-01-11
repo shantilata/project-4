@@ -17,7 +17,7 @@ const SubTopic = () => {
       <h1 style={{color:'yellow',paddingBottom:'4rem'}}>{stopic.topic_name}</h1>
       <Row>
         {stopic.sub_topic.map((st)=>(
-          <Col key={st.sub_topic_id} sm={12} md={6} lg={3} xl={3} style={{justifyContent:'center',alignItems:'center',display:'flex'}}>
+          <Col key={st.sub_topic_id} sm={12} md={6} lg={6} xl={6} style={{justifyContent:'center',alignItems:'center',display:'flex'}}>
             {/* <h1>Column</h1> */}
             <Card style={{width:'18rem'}}>
               <Card.Img varient="top" src={st.sub_image1}/>

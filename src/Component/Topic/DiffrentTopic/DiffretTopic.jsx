@@ -10,7 +10,7 @@ const DiffretTopic = () => {
                 return (
 
                     <React.Fragment key={D.topic_id}>
-                        {/* <Container fluid > */}
+                        <Container fluid >
                             <Card style={{backgroundColor:'palegreen'}}>
                                 <Card.Body>
                                     <Card.Title>{D.topic_name}</Card.Title>
@@ -20,7 +20,7 @@ const DiffretTopic = () => {
 
                                 </Card.Body>
                             </Card>
-                        {/* </Container> */}
+                        </Container>
                         {/* <h1>{D.topic_name}</h1>
                     <Link to={`subtopic/${D.topic_id}`}>
                         <button>Choose Topic</button>
